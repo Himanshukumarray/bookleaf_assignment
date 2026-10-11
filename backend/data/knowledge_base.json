@@ -1,0 +1,48 @@
+{
+  "version": "kb-v1",
+  "sections": [
+    {
+      "section": "company_overview",
+      "title": "Company Overview",
+      "categories": ["General Inquiry"],
+      "content": "BookLeaf Publishing operates in India and the US. Publishing packages include Standard Free and Bestseller Breakthrough. BookLeaf handles cover design, typesetting, ISBN assignment, printing, distribution and royalty management. The in-house printing facility and warehouse are located in Delhi. Print partners include Repro India and Epitome Books."
+    },
+    {
+      "section": "royalty_policy",
+      "title": "Royalty Policy",
+      "categories": ["Royalty & Payments"],
+      "content": "Royalties follow an 80/20 split: the author receives 80% of net profit and BookLeaf receives 20%. Net profit = MRP minus printing cost, platform commission and shipping. Royalties are calculated quarterly and paid within 45 days after quarter end. The minimum payout threshold is ₹1,000; any balance below ₹1,000 rolls over to the next quarter and is not a missed payment. Payment is made to the author's linked bank account. Authors can view a detailed royalty breakdown."
+    },
+    {
+      "section": "isbn_policy",
+      "title": "ISBN Policy",
+      "categories": ["ISBN & Metadata Issues"],
+      "content": "Each BookLeaf book receives a unique ISBN, registered under the BookLeaf publisher imprint. Authors who want their own imprint must obtain an ISBN independently. A duplicate or wrongly linked ISBN is a high-priority issue and is escalated to the production team."
+    },
+    {
+      "section": "printing_quality",
+      "title": "Printing & Quality",
+      "categories": ["Printing & Quality"],
+      "content": "Most orders are printed in-house at the Delhi facility. Overflow orders and specific formats may be printed by partners Repro India or Epitome Books. Standard printing turnaround is 5-7 business days. Verified quality problems qualify for a free reprint. The author may be asked to submit photos of the problem so it can be verified."
+    },
+    {
+      "section": "distribution",
+      "title": "Distribution & Availability",
+      "categories": ["Distribution & Availability"],
+      "content": "BookLeaf distributes to Amazon India, Flipkart, Amazon US, Amazon UK and the BookLeaf Store. New listings generally go live within 7-10 business days after publication. A listing showing as unavailable is often a stock synchronisation issue; BookLeaf can trigger a re-sync, and the expected re-sync window is 24-48 hours."
+    },
+    {
+      "section": "production_stages",
+      "title": "Production Stages",
+      "categories": ["Book Status & Production Updates"],
+      "content": "The production pipeline is: Manuscript Received, Editing (if opted), Cover Design, Typesetting, Proofreading, ISBN Assignment, Printing, Distribution Setup, Published & Live. The most common delay points are Cover Design (waiting for author approval) and Proofreading (multiple revision rounds)."
+    },
+    {
+      "section": "communication_guidelines",
+      "title": "Communication Guidelines",
+      "categories": [],
+      "always_include": true,
+      "content": "Tone: empathetic and professional; treat authors as partners. Acknowledge the author's concern first. Use specific data from their account. Own BookLeaf's mistakes plainly and avoid corporate deflection. Give concrete timelines only when the policy supports them. Finish with clear next steps."
+    }
+  ]
+}

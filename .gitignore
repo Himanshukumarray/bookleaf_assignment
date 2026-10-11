@@ -1,0 +1,25 @@
+# secrets & local config
+.env
+*.env.local
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# local dev database (scripts/dev_postgres.py)
+.pgdata/
+
+# node
+node_modules/
+dist/
+coverage/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
